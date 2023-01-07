@@ -1,0 +1,31 @@
+.banner{
+    height:800px;
+    margin:-8px !important;
+}
+.btn-primary{
+    background-color: #F15B22;
+    color: white;
+    height: 42px;
+    width: 100px;
+    border: none;
+    border-radius:3px;
+}
+.cover{
+    background: url(images/watch.png);
+    height:299px;
+    width:1140px;
+    margin-left:11rem;
+}
+ .grad1 {
+    background:url(images/gradient2.png);
+    height: 299px;
+    width: 1140px;
+  } 
+  .btn-secondary{
+    background-color: white;
+    color: #F15B22;
+    height: 42px;
+    width: 100px;
+    border: none;
+    border-radius:3px;
+  }
